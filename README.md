@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm passionate about building practical software s
 
 ## 🚀 Featured Projects
 
-### 🎮 eSportsFlow
+### 🎮 eSports insights.
 **An Integrated eSports Team, Tournament and Performance System**
 
 A web-based platform designed to manage:
