@@ -76,8 +76,6 @@ A web-based platform designed to manage:
 ---
 
 ## 🌱 Currently Learning
-
-```text
 Java
  └── Spring Boot
       ├── REST APIs
